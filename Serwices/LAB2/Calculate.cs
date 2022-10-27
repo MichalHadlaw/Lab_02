@@ -1,4 +1,4 @@
-﻿namespace WebApplication1.Serwices
+﻿namespace WebApplication1.Serwices.LAB2
 {
     public class Calculate
     {
